@@ -1,0 +1,13 @@
+ServerConfig.vdf
+bin/
+cfg/config.cfg
+cfg/server_blacklist.txt
+cfg/settings.scr
+demoheader.tmp
+downloadlists/
+maps/graphs/
+modelsounds.cache
+sound.cache
+sound_workshop/
+stats.txt
+voice_ban.dt
