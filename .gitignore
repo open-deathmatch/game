@@ -1,5 +1,5 @@
 ServerConfig.vdf
-bin/
+*.pdb
 cfg/config.cfg
 cfg/server_blacklist.txt
 cfg/settings.scr
