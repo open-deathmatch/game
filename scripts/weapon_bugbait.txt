@@ -28,17 +28,17 @@ WeaponData
 		"weapon"
 		{
 				"font"		"WeaponIcons"
-				"character"	"a"
+				"character"	"j"
 		}
 		"weapon_s"
 		{	
 				"font"		"WeaponIconsSelected"
-				"character"	"a"
+				"character"	"j"
 		}
 		"ammo"
 		{
-				"font"		"WeaponIconsSmall"
-				"character"	"r"
+				"font"		"WeaponIcons"
+				"character"	"j"
 		}
 		"crosshair"
 		{
@@ -48,8 +48,8 @@ WeaponData
 		"autoaim"
 		{
 				"file"		"sprites/crosshairs"
-				"x"			"0"
-				"y"			"48"
+				"x"			"48"
+				"y"			"72"
 				"width"		"24"
 				"height"	"24"
 		}
