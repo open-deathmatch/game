@@ -43,9 +43,6 @@
 
 			platform			|appid_243750|platform/platform_misc.vpk
 
-			game				|appid_220|ep2/ep2_pak.vpk
-			game				|appid_220|episodic/ep1_pak.vpk
-
 			game				|appid_243750|hl2mp
 			game				|appid_243750|hl2_complete
 			game				|appid_243750|hl2
