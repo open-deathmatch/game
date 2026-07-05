@@ -21,7 +21,7 @@
 		
 		SearchPaths
 		{
-			game+mod			deathmatch/custom/*
+			game+mod+custom_mod	|gameinfo_path|custom/*
 
 			mod+mod_write		|gameinfo_path|.
 			game+game_write		|gameinfo_path|.
@@ -48,7 +48,7 @@
 			game				|appid_243750|hl2
 			platform			|appid_243750|platform
 
-			game+download	deathmatch/download
+			game+download	|gameinfo_path|download
 		}
 	}
 }
