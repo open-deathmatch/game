@@ -1,0 +1,20 @@
+{
+"classname" "item_powerup"
+"origin" "-3613.758789 4837.586426 5.031250"
+"targetname" "mapadd_powerup_1"
+}
+{
+"classname" "item_powerup"
+"origin" "-2978.149658 3520.745605 5.031250"
+"targetname" "mapadd_powerup_2"
+}
+{
+"classname" "item_powerup"
+"origin" "-3628.444580 2313.547119 5.921516"
+"targetname" "mapadd_powerup_3"
+}
+{
+"classname" "item_powerup"
+"origin" "-2654.852295 3663.194824 134.031250"
+"targetname" "mapadd_powerup_4"
+}
