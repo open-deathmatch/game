@@ -330,3 +330,14 @@
 		"wave"	"*vo/npc/$gender01/pain09.wav"
 	}
 }
+
+//ODM
+
+"ODM.CollectPowerup"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"0.5"
+	"soundlevel"  "SNDLVL_60dB"
+
+	"wave"	"beams/beam2.wav"
+}
